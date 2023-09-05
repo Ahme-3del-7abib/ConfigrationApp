@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConfigApp-JC</string>
+    <string name="all_services">All Services</string>
+    <string name="add_service">Add Service</string>
+    <string name="no_data_found">No Data Found!</string>
+    <string name="deactivate_service">Deactivate Service</string>
+    <string name="update_service">Update Service</string>
+    <string name="delete_service">Delete Service</string>
+    <string name="service_en">Service Name (English) (Mandatory)</string>
+    <string name="service_name_ar">Service Name (Arabic) (Mandatory)</string>
+    <string name="enter_name">Enter Name</string>
+</resources>
